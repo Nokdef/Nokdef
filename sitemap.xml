@@ -24,16 +24,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/dropdown69x22.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nokdef.github.com/images/dropdown_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.com/images/dropdown38x13.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.com/images/dropdown38x13_2x.png</image:loc>
     </image:image>
   </url>
   <url>
