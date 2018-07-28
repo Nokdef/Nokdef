@@ -33,16 +33,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/dropdown69x22.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nokdef.github.com/images/dropdown_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.com/images/dropdown38x13.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.com/images/dropdown38x13_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nokdef.github.com/images/audiodesign.png</image:loc>
@@ -69,26 +60,10 @@
       <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/audiodesign495x253.png</image:loc>
-      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.com/images/audiodesign495x253_2x.png</image:loc>
-      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
-    </image:image>
-    <image:image>
       <image:loc>http://nokdef.github.com/images/dropdown48x16.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nokdef.github.com/images/dropdown48x16_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.com/images/audiodesign347x177.png</image:loc>
-      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.com/images/audiodesign347x177_2x.png</image:loc>
-      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://nokdef.github.com/images/bed_model308x181.jpg</image:loc>
@@ -103,14 +78,6 @@
       <image:loc>http://nokdef.github.com/images/bed_textured_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/audiodesign264x135.png</image:loc>
-      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.com/images/audiodesign264x135_2x.png</image:loc>
-      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
-    </image:image>
-    <image:image>
       <image:loc>http://nokdef.github.com/images/bed_model234x138.jpg</image:loc>
     </image:image>
     <image:image>
@@ -121,6 +88,30 @@
     </image:image>
     <image:image>
       <image:loc>http://nokdef.github.com/images/bed_textured234x138_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/audiodesign545x279.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/audiodesign545x279_2x.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/audiodesign420x215.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/audiodesign420x215_2x.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/audiodesign320x164.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/audiodesign320x164_2x.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
     </image:image>
   </url>
   <url>

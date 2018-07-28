@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nokdef.github.com" resolutions="1x,2x" timestamp="1532791120253">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nokdef.github.com" resolutions="1x,2x" timestamp="1532792590668">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_master.css" crc="4077008919" ref="contact:devlog:resume:index"/>
+    <file name="master_master.css" crc="4210180451" ref="contact:devlog:resume:index"/>
     <file name="nomq_preview_master_master.css" crc="3868093197" ref="contact:devlog:resume:index"/>
-    <file name="contact.css" crc="477419843" ref="contact"/>
-    <file name="nomq_contact.css" crc="4080017713" ref="contact"/>
-    <file name="devlog.css" crc="477419843" ref="devlog"/>
-    <file name="nomq_devlog.css" crc="4080017713" ref="devlog"/>
-    <file name="resume.css" crc="196180699" ref="resume"/>
-    <file name="nomq_resume.css" crc="4262220816" ref="resume"/>
-    <file name="index.css" crc="477419843" ref="index"/>
-    <file name="nomq_index.css" crc="4080017713" ref="index"/>
+    <file name="contact.css" crc="3940396272" ref="contact"/>
+    <file name="nomq_contact.css" crc="89091474" ref="contact"/>
+    <file name="devlog.css" crc="3940396272" ref="devlog"/>
+    <file name="nomq_devlog.css" crc="89091474" ref="devlog"/>
+    <file name="resume.css" crc="526487555" ref="resume"/>
+    <file name="nomq_resume.css" crc="167079276" ref="resume"/>
+    <file name="index.css" crc="3940396272" ref="index"/>
+    <file name="nomq_index.css" crc="89091474" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="audiodesignannouncer_01.mp3" crc="417936540" seo="true" mt="1532741606000"/>
@@ -41,7 +41,7 @@
   <folder name="images">
     <file name="u94-4.png" crc="4235398860" ref="index:devlog:resume:contact"/>
     <file name="u94-4_2x.png" crc="4279124914" ref="index:devlog:resume:contact"/>
-    <file name="dropdown69x22.png" crc="4135816911" seo="true" ref="index:resume">
+    <file name="dropdown69x22.png" crc="4135816911" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="resume" alt=""/>
     </file>
@@ -51,11 +51,11 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="resume" alt=""/>
     </file>
-    <file name="dropdown38x13.png" crc="116064431" seo="true" ref="index:resume">
+    <file name="dropdown38x13.png" crc="116064431" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="resume" alt=""/>
     </file>
-    <file name="dropdown38x13_2x.png" crc="175846523" seo="true" ref="index:resume">
+    <file name="dropdown38x13_2x.png" crc="175846523" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="resume" alt=""/>
     </file>
@@ -78,10 +78,10 @@
     <file name="u4079-4_2x.png" crc="154346601" ref="resume"/>
     <file name="u4593-4.png" crc="27516828" ref="resume"/>
     <file name="u4593-4_2x.png" crc="4245653778" ref="resume"/>
-    <file name="audiodesign.png" crc="158279232" seo="true" ref="resume">
+    <file name="audiodesign.png" crc="525582010" seo="true" ref="resume">
       <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
     </file>
-    <file name="audiodesign_2x.png" crc="4288559138" seo="true" ref="resume">
+    <file name="audiodesign_2x.png" crc="4209509677" seo="true" ref="resume">
       <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
     </file>
     <file name="u321-42.png" crc="313561671" ref="resume"/>
@@ -136,22 +136,16 @@
     <file name="u5884-4_2x4.png" crc="4061948851" ref="resume"/>
     <file name="u6002-44.png" crc="3876135523" ref="resume"/>
     <file name="u6002-4_2x4.png" crc="4283159727" ref="resume"/>
-    <file name="audiodesign602x308.png" crc="3933259132" seo="true" ref="resume">
+    <file name="audiodesign602x308.png" crc="4006630028" seo="true" ref="resume">
       <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
     </file>
-    <file name="audiodesign602x308_2x.png" crc="4201131389" seo="true" ref="resume">
+    <file name="audiodesign602x308_2x.png" crc="364995878" seo="true" ref="resume">
       <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
     </file>
-    <file name="audiodesign435x223.png" crc="303415653" seo="true" ref="resume">
+    <file name="audiodesign435x223.png" crc="3758918589" seo="true" ref="resume">
       <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
     </file>
-    <file name="audiodesign435x223_2x.png" crc="4068278401" seo="true" ref="resume">
-      <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
-    </file>
-    <file name="audiodesign495x253.png" crc="3888708803" seo="true" ref="resume">
-      <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
-    </file>
-    <file name="audiodesign495x253_2x.png" crc="3840510970" seo="true" ref="resume">
+    <file name="audiodesign435x223_2x.png" crc="118254609" seo="true" ref="resume">
       <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
     </file>
     <file name="dropdown48x16.png" crc="4256213756" seo="true" ref="resume">
@@ -162,26 +156,20 @@
     </file>
     <file name="u321-45.png" crc="393137133" ref="resume"/>
     <file name="u321-4_2x5.png" crc="36993374" ref="resume"/>
-    <file name="u330-105.png" crc="131749307" ref="resume"/>
-    <file name="u330-10_2x5.png" crc="419950901" ref="resume"/>
+    <file name="u330-105.png" crc="3793110562" ref="resume"/>
+    <file name="u330-10_2x5.png" crc="3790395002" ref="resume"/>
     <file name="u465-45.png" crc="301741759" ref="resume"/>
     <file name="u465-4_2x5.png" crc="3839673793" ref="resume"/>
-    <file name="u657-45.png" crc="3995777691" ref="resume"/>
-    <file name="u657-4_2x5.png" crc="12815820" ref="resume"/>
+    <file name="u657-45.png" crc="330299713" ref="resume"/>
+    <file name="u657-4_2x5.png" crc="524513351" ref="resume"/>
     <file name="u4079-45.png" crc="375128449" ref="resume"/>
     <file name="u4079-4_2x5.png" crc="193643109" ref="resume"/>
-    <file name="u4593-45.png" crc="462354719" ref="resume"/>
-    <file name="u4593-4_2x5.png" crc="3843151573" ref="resume"/>
-    <file name="audiodesign347x177.png" crc="44927034" seo="true" ref="resume">
-      <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
-    </file>
-    <file name="audiodesign347x177_2x.png" crc="4101692323" seo="true" ref="resume">
-      <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
-    </file>
+    <file name="u4593-45.png" crc="4171016790" ref="resume"/>
+    <file name="u4593-4_2x5.png" crc="364242413" ref="resume"/>
     <file name="u5884-45.png" crc="4183188147" ref="resume"/>
     <file name="u5884-4_2x5.png" crc="4061948851" ref="resume"/>
-    <file name="u6002-45.png" crc="4124485232" ref="resume"/>
-    <file name="u6002-4_2x5.png" crc="4247605227" ref="resume"/>
+    <file name="u6002-45.png" crc="146322491" ref="resume"/>
+    <file name="u6002-4_2x5.png" crc="4118175055" ref="resume"/>
     <file name="bed_model308x181.jpg" crc="298655903" seo="true" ref="resume">
       <caption webpage="resume" alt=""/>
     </file>
@@ -196,26 +184,20 @@
     </file>
     <file name="u321-46.png" crc="3880417099" ref="resume"/>
     <file name="u321-4_2x6.png" crc="95363254" ref="resume"/>
-    <file name="u330-106.png" crc="4267256104" ref="resume"/>
-    <file name="u330-10_2x6.png" crc="160844907" ref="resume"/>
+    <file name="u330-106.png" crc="4291528761" ref="resume"/>
+    <file name="u330-10_2x6.png" crc="248409853" ref="resume"/>
     <file name="u465-46.png" crc="301741759" ref="resume"/>
     <file name="u465-4_2x6.png" crc="3839673793" ref="resume"/>
-    <file name="u657-46.png" crc="4055659812" ref="resume"/>
-    <file name="u657-4_2x6.png" crc="4103785304" ref="resume"/>
+    <file name="u657-46.png" crc="4173216197" ref="resume"/>
+    <file name="u657-4_2x6.png" crc="414378329" ref="resume"/>
     <file name="u4079-46.png" crc="375128449" ref="resume"/>
     <file name="u4079-4_2x6.png" crc="193643109" ref="resume"/>
-    <file name="u4593-46.png" crc="4013873661" ref="resume"/>
-    <file name="u4593-4_2x6.png" crc="4184549137" ref="resume"/>
-    <file name="audiodesign264x135.png" crc="4261515482" seo="true" ref="resume">
-      <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
-    </file>
-    <file name="audiodesign264x135_2x.png" crc="532399577" seo="true" ref="resume">
-      <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
-    </file>
+    <file name="u4593-46.png" crc="53541510" ref="resume"/>
+    <file name="u4593-4_2x6.png" crc="190428828" ref="resume"/>
     <file name="u5884-46.png" crc="4183188147" ref="resume"/>
     <file name="u5884-4_2x6.png" crc="4061948851" ref="resume"/>
-    <file name="u6002-46.png" crc="501599543" ref="resume"/>
-    <file name="u6002-4_2x6.png" crc="3806502216" ref="resume"/>
+    <file name="u6002-46.png" crc="4042891784" ref="resume"/>
+    <file name="u6002-4_2x6.png" crc="4278812782" ref="resume"/>
     <file name="bed_model234x138.jpg" crc="3958510863" seo="true" ref="resume">
       <caption webpage="resume" alt=""/>
     </file>
@@ -228,9 +210,27 @@
     <file name="bed_textured234x138_2x.jpg" crc="4111980978" seo="true" ref="resume">
       <caption webpage="resume" alt=""/>
     </file>
+    <file name="audiodesign545x279.png" crc="219063663" seo="true" ref="resume">
+      <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
+    </file>
+    <file name="audiodesign545x279_2x.png" crc="3893577160" seo="true" ref="resume">
+      <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
+    </file>
+    <file name="audiodesign420x215.png" crc="4289316647" seo="true" ref="resume">
+      <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
+    </file>
+    <file name="audiodesign420x215_2x.png" crc="4050258328" seo="true" ref="resume">
+      <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
+    </file>
+    <file name="audiodesign320x164.png" crc="4082390525" seo="true" ref="resume">
+      <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
+    </file>
+    <file name="audiodesign320x164_2x.png" crc="3815212417" seo="true" ref="resume">
+      <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
+    </file>
   </folder>
-  <file name="index.html" crc="4005132682" seo="true" mt="1532790048526" redirect="true"/>
-  <file name="devlog.html" crc="3869783764" seo="true" mt="1532790048526" redirect="true"/>
-  <file name="resume.html" crc="83789585" seo="true" mt="1532791105414" redirect="true"/>
-  <file name="contact.html" crc="17156255" seo="true" mt="1532790048526" redirect="true"/>
+  <file name="index.html" crc="328674501" seo="true" mt="1532792548461" redirect="true"/>
+  <file name="devlog.html" crc="153862317" seo="true" mt="1532792548461" redirect="true"/>
+  <file name="resume.html" crc="209629261" seo="true" mt="1532792548461" redirect="true"/>
+  <file name="contact.html" crc="3919397933" seo="true" mt="1532792548461" redirect="true"/>
 </manifest>
