@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nokdef.github.com/index.html</loc>
-    <lastmod>2018-07-27</lastmod>
+    <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -16,6 +16,15 @@
     </image:image>
     <image:image>
       <image:loc>http://nokdef.github.com/images/dropdown38x13_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://nokdef.github.com/contact.html</loc>
+    <lastmod>2018-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/dropdown_2x.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -37,23 +46,86 @@
     </image:image>
     <image:image>
       <image:loc>http://nokdef.github.com/images/audiodesign.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
     </image:image>
     <image:image>
       <image:loc>http://nokdef.github.com/images/audiodesign_2x.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
     </image:image>
-  </url>
-  <url>
-    <loc>http://nokdef.github.com/contact.html</loc>
-    <lastmod>2018-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/dropdown_2x.png</image:loc>
+      <image:loc>http://nokdef.github.com/images/audiodesign602x308.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/audiodesign602x308_2x.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/audiodesign435x223.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/audiodesign435x223_2x.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/audiodesign495x253.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/audiodesign495x253_2x.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/dropdown48x16.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/dropdown48x16_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/audiodesign347x177.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/audiodesign347x177_2x.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/bed_model308x181.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/bed_model_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/bed_textured307x181.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/bed_textured_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/audiodesign264x135.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/audiodesign264x135_2x.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/bed_model234x138.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/bed_model234x138_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/bed_textured234x138.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/bed_textured234x138_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://nokdef.github.com/devlog.html</loc>
-    <lastmod>2018-07-27</lastmod>
+    <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -61,13 +133,19 @@
     </image:image>
   </url>
   <url>
-    <loc>http://nokdef.github.com/assets/claptrap_01.mp3</loc>
-    <lastmod>2018-07-27</lastmod>
+    <loc>http://nokdef.github.com/assets/bed_textured.jpg</loc>
+    <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nokdef.github.com/assets/audiofx.mp3</loc>
+    <loc>http://nokdef.github.com/assets/thumbnail1.png</loc>
+    <lastmod>2018-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nokdef.github.com/assets/claptrap_01.mp3</loc>
     <lastmod>2018-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -79,13 +157,37 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://nokdef.github.com/assets/thumbnail4.png</loc>
+    <lastmod>2018-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nokdef.github.com/assets/thumbnail5.png</loc>
+    <lastmod>2018-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nokdef.github.com/assets/audiofx.mp3</loc>
+    <lastmod>2018-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://nokdef.github.com/assets/audiodesignannouncer_01.mp3</loc>
     <lastmod>2018-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nokdef.github.com/assets/bed_textured.jpg</loc>
+    <loc>http://nokdef.github.com/assets/thumbnail2.png</loc>
+    <lastmod>2018-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nokdef.github.com/assets/thumbnail3.png</loc>
     <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
