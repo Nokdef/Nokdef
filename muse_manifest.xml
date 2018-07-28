@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nokdef.github.com" resolutions="1x,2x" timestamp="1532797943186">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nokdef.github.com" resolutions="1x,2x" timestamp="1532801194794">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_master.css" crc="310782244" ref="contact:devlog:resume:index"/>
+    <file name="master_master.css" crc="403168763" ref="contact:devlog:resume:index"/>
     <file name="nomq_preview_master_master.css" crc="3868093197" ref="contact:devlog:resume:index"/>
-    <file name="contact.css" crc="133167313" ref="contact"/>
-    <file name="nomq_contact.css" crc="385859885" ref="contact"/>
+    <file name="contact.css" crc="19411674" ref="contact"/>
+    <file name="nomq_contact.css" crc="478675028" ref="contact"/>
     <file name="devlog.css" crc="499169041" ref="devlog"/>
     <file name="nomq_devlog.css" crc="448926077" ref="devlog"/>
     <file name="resume.css" crc="3806385033" ref="resume"/>
@@ -45,7 +45,7 @@
   <folder name="images">
     <file name="u94-4.png" crc="4235398860" ref="index:devlog:resume:contact"/>
     <file name="u94-4_2x.png" crc="4279124914" ref="index:devlog:resume:contact"/>
-    <file name="dropdown69x22.png" crc="4135816911" seo="true" ref="index">
+    <file name="dropdown69x22.png" crc="4135816911" seo="true" ref="index:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="resume" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -56,12 +56,12 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="resume" alt=""/>
     </file>
-    <file name="dropdown38x13.png" crc="116064431" seo="true" ref="index">
+    <file name="dropdown38x13.png" crc="116064431" seo="true" ref="index:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="resume" alt=""/>
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="dropdown38x13_2x.png" crc="175846523" seo="true" ref="index">
+    <file name="dropdown38x13_2x.png" crc="175846523" seo="true" ref="index:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="resume" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -247,5 +247,5 @@
   <file name="index.html" crc="410971066" seo="true" mt="1532797910786" redirect="true"/>
   <file name="devlog.html" crc="94327581" seo="true" mt="1532797910786" redirect="true"/>
   <file name="resume.html" crc="192309617" seo="true" mt="1532797910786" redirect="true"/>
-  <file name="contact.html" crc="298280405" seo="true" mt="1532797910786" redirect="true"/>
+  <file name="contact.html" crc="335342655" seo="true" mt="1532801173873" redirect="true"/>
 </manifest>
