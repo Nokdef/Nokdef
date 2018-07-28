@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nokdef.github.com" resolutions="1x,2x" timestamp="1532745881986">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nokdef.github.com" resolutions="1x,2x" timestamp="1532749218933">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_master.css" crc="3934242392" ref="contact:devlog:resume:index"/>
+    <file name="master_master.css" crc="3971486637" ref="contact:devlog:resume:index"/>
     <file name="nomq_preview_master_master.css" crc="3868093197" ref="contact:devlog:resume:index"/>
     <file name="contact.css" crc="4218571495" ref="contact"/>
     <file name="nomq_contact.css" crc="4080017713" ref="contact"/>
     <file name="devlog.css" crc="4218571495" ref="devlog"/>
     <file name="nomq_devlog.css" crc="4080017713" ref="devlog"/>
-    <file name="resume.css" crc="3916246341" ref="resume"/>
-    <file name="nomq_resume.css" crc="485803520" ref="resume"/>
+    <file name="resume.css" crc="4022039552" ref="resume"/>
+    <file name="nomq_resume.css" crc="4142770203" ref="resume"/>
     <file name="index.css" crc="4218571495" ref="index"/>
     <file name="nomq_index.css" crc="4080017713" ref="index"/>
   </folder>
@@ -16,6 +16,8 @@
     <file name="audiodesignannouncer_01.mp3" crc="417936540" seo="true" mt="1532741606000"/>
     <file name="audiofx.mp3" crc="3765332417" seo="true" mt="1532744274000"/>
     <file name="claptrap_01.mp3" crc="171284163" seo="true" mt="1532745660000"/>
+    <file name="bed_model.jpg" crc="4221906761" seo="true" mt="1532748113000"/>
+    <file name="bed_textured.jpg" crc="134452305" seo="true" mt="1532747870000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:devlog:resume:contact"/>
@@ -34,20 +36,23 @@
   <folder name="images">
     <file name="u94-4.png" crc="4235398860" ref="index:devlog:resume:contact"/>
     <file name="u94-4_2x.png" crc="4279124914" ref="index:devlog:resume:contact"/>
-    <file name="dropdown69x22.png" crc="4135816911" seo="true" ref="index">
+    <file name="dropdown69x22.png" crc="4135816911" seo="true" ref="index:resume">
       <caption webpage="index" alt=""/>
+      <caption webpage="resume" alt=""/>
     </file>
     <file name="dropdown_2x.png" crc="38094814" seo="true" ref="index:devlog:resume:contact">
       <caption webpage="index" alt=""/>
-      <caption webpage="resume" alt=""/>
       <caption webpage="devlog" alt=""/>
+      <caption webpage="resume" alt=""/>
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="dropdown38x13.png" crc="116064431" seo="true" ref="index">
+    <file name="dropdown38x13.png" crc="116064431" seo="true" ref="index:resume">
       <caption webpage="index" alt=""/>
+      <caption webpage="resume" alt=""/>
     </file>
-    <file name="dropdown38x13_2x.png" crc="175846523" seo="true" ref="index">
+    <file name="dropdown38x13_2x.png" crc="175846523" seo="true" ref="index:resume">
       <caption webpage="index" alt=""/>
+      <caption webpage="resume" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:devlog:resume:contact"/>
     <file name="u321-4.png" crc="484217209" ref="resume"/>
@@ -116,9 +121,25 @@
     <file name="u4079-4_2x4.png" crc="154346601" ref="resume"/>
     <file name="u4593-44.png" crc="393360763" ref="resume"/>
     <file name="u4593-4_2x4.png" crc="4062413579" ref="resume"/>
+    <file name="u5884-4.png" crc="24981147" ref="resume"/>
+    <file name="u5884-4_2x.png" crc="355553174" ref="resume"/>
+    <file name="u6002-4.png" crc="4043840538" ref="resume"/>
+    <file name="u6002-4_2x.png" crc="85767009" ref="resume"/>
+    <file name="u5884-42.png" crc="24981147" ref="resume"/>
+    <file name="u5884-4_2x2.png" crc="355553174" ref="resume"/>
+    <file name="u6002-42.png" crc="4043840538" ref="resume"/>
+    <file name="u6002-4_2x2.png" crc="85767009" ref="resume"/>
+    <file name="u5884-43.png" crc="24981147" ref="resume"/>
+    <file name="u5884-4_2x3.png" crc="355553174" ref="resume"/>
+    <file name="u6002-43.png" crc="4043840538" ref="resume"/>
+    <file name="u6002-4_2x3.png" crc="85767009" ref="resume"/>
+    <file name="u5884-44.png" crc="24981147" ref="resume"/>
+    <file name="u5884-4_2x4.png" crc="355553174" ref="resume"/>
+    <file name="u6002-44.png" crc="4043840538" ref="resume"/>
+    <file name="u6002-4_2x4.png" crc="85767009" ref="resume"/>
   </folder>
   <file name="index.html" crc="3927000983" seo="true" mt="1532734879200" redirect="true"/>
   <file name="devlog.html" crc="4081504724" seo="true" mt="1532734879200" redirect="true"/>
-  <file name="resume.html" crc="4119167949" seo="true" mt="1532745716984" redirect="true"/>
+  <file name="resume.html" crc="4210202079" seo="true" mt="1532748959562" redirect="true"/>
   <file name="contact.html" crc="33034845" seo="true" mt="1532734879200" redirect="true"/>
 </manifest>

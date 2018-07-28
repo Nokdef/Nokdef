@@ -19,21 +19,21 @@
     </image:image>
   </url>
   <url>
-    <loc>http://nokdef.github.com/devlog.html</loc>
-    <lastmod>2018-07-27</lastmod>
+    <loc>http://nokdef.github.com/resume.html</loc>
+    <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/dropdown69x22.png</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://nokdef.github.com/images/dropdown_2x.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://nokdef.github.com/resume.html</loc>
-    <lastmod>2018-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/dropdown_2x.png</image:loc>
+      <image:loc>http://nokdef.github.com/images/dropdown38x13.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/dropdown38x13_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nokdef.github.com/images/audiodesign.png</image:loc>
@@ -52,10 +52,13 @@
     </image:image>
   </url>
   <url>
-    <loc>http://nokdef.github.com/assets/audiodesignannouncer_01.mp3</loc>
+    <loc>http://nokdef.github.com/devlog.html</loc>
     <lastmod>2018-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nokdef.github.com/images/dropdown_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://nokdef.github.com/assets/claptrap_01.mp3</loc>
@@ -66,6 +69,24 @@
   <url>
     <loc>http://nokdef.github.com/assets/audiofx.mp3</loc>
     <lastmod>2018-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nokdef.github.com/assets/bed_model.jpg</loc>
+    <lastmod>2018-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nokdef.github.com/assets/audiodesignannouncer_01.mp3</loc>
+    <lastmod>2018-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nokdef.github.com/assets/bed_textured.jpg</loc>
+    <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
