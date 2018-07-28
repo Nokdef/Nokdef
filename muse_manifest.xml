@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nokdef.github.com" resolutions="1x,2x" timestamp="1532792590668">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nokdef.github.com" resolutions="1x,2x" timestamp="1532797794832">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_master.css" crc="4210180451" ref="contact:devlog:resume:index"/>
+    <file name="master_master.css" crc="260268782" ref="contact:devlog:resume:index"/>
     <file name="nomq_preview_master_master.css" crc="3868093197" ref="contact:devlog:resume:index"/>
-    <file name="contact.css" crc="3940396272" ref="contact"/>
-    <file name="nomq_contact.css" crc="89091474" ref="contact"/>
+    <file name="contact.css" crc="497675830" ref="contact"/>
+    <file name="nomq_contact.css" crc="3855513090" ref="contact"/>
     <file name="devlog.css" crc="3940396272" ref="devlog"/>
     <file name="nomq_devlog.css" crc="89091474" ref="devlog"/>
     <file name="resume.css" crc="526487555" ref="resume"/>
@@ -37,13 +37,18 @@
     <file name="jquery.museresponsive.js" crc="527716135" ref="index:devlog:resume:contact"/>
     <file name="require.js" crc="7928878" ref="index:devlog:resume:contact"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="resume"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u18313.php" crc="91693287" ref="contact"/>
   </folder>
   <folder name="images">
     <file name="u94-4.png" crc="4235398860" ref="index:devlog:resume:contact"/>
     <file name="u94-4_2x.png" crc="4279124914" ref="index:devlog:resume:contact"/>
-    <file name="dropdown69x22.png" crc="4135816911" seo="true" ref="index">
+    <file name="dropdown69x22.png" crc="4135816911" seo="true" ref="index:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="resume" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="dropdown_2x.png" crc="38094814" seo="true" ref="index:devlog:resume:contact">
       <caption webpage="index" alt=""/>
@@ -51,13 +56,15 @@
       <caption webpage="contact" alt=""/>
       <caption webpage="resume" alt=""/>
     </file>
-    <file name="dropdown38x13.png" crc="116064431" seo="true" ref="index">
+    <file name="dropdown38x13.png" crc="116064431" seo="true" ref="index:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="resume" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="dropdown38x13_2x.png" crc="175846523" seo="true" ref="index">
+    <file name="dropdown38x13_2x.png" crc="175846523" seo="true" ref="index:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="resume" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:devlog:resume:contact"/>
     <file name="u321-4.png" crc="484217209" ref="resume"/>
@@ -228,9 +235,17 @@
     <file name="audiodesign320x164_2x.png" crc="3815212417" seo="true" ref="resume">
       <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
     </file>
+    <file name="u18300-4.png" crc="431914897" ref="contact"/>
+    <file name="u18300-4_2x.png" crc="4098382842" ref="contact"/>
+    <file name="u18300-42.png" crc="148997060" ref="contact"/>
+    <file name="u18300-4_2x2.png" crc="4245416127" ref="contact"/>
+    <file name="u18300-43.png" crc="503988379" ref="contact"/>
+    <file name="u18300-4_2x3.png" crc="4177819001" ref="contact"/>
+    <file name="u18300-44.png" crc="143647241" ref="contact"/>
+    <file name="u18300-4_2x4.png" crc="4040352024" ref="contact"/>
   </folder>
   <file name="index.html" crc="328674501" seo="true" mt="1532792548461" redirect="true"/>
   <file name="devlog.html" crc="153862317" seo="true" mt="1532792548461" redirect="true"/>
   <file name="resume.html" crc="209629261" seo="true" mt="1532792548461" redirect="true"/>
-  <file name="contact.html" crc="3919397933" seo="true" mt="1532792548461" redirect="true"/>
+  <file name="contact.html" crc="4057226324" seo="true" mt="1532797732731" redirect="true"/>
 </manifest>
