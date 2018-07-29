@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nokdef.github.com" resolutions="1x,2x" timestamp="1532816253923">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nokdef.github.com" resolutions="1x,2x" timestamp="1532818483256">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_master.css" crc="156532741" ref="contact:devlog:resume:index:404"/>
+    <file name="master_master.css" crc="474028988" ref="contact:devlog:resume:index:404"/>
     <file name="nomq_preview_master_master.css" crc="3969678423" ref="contact:devlog:resume:index:404"/>
-    <file name="contact.css" crc="379803902" ref="contact"/>
-    <file name="nomq_contact.css" crc="4262518333" ref="contact"/>
-    <file name="devlog.css" crc="3859765474" ref="devlog"/>
-    <file name="nomq_devlog.css" crc="4277729606" ref="devlog"/>
-    <file name="resume.css" crc="3965846809" ref="resume"/>
-    <file name="nomq_resume.css" crc="4110949388" ref="resume"/>
-    <file name="index.css" crc="3980335971" ref="index"/>
-    <file name="nomq_index.css" crc="4253379154" ref="index"/>
-    <file name="404.css" crc="4274291275" ref="404"/>
-    <file name="nomq_404.css" crc="3857155347" ref="404"/>
+    <file name="contact.css" crc="3974624378" ref="contact"/>
+    <file name="nomq_contact.css" crc="3767904473" ref="contact"/>
+    <file name="devlog.css" crc="533068850" ref="devlog"/>
+    <file name="nomq_devlog.css" crc="3920182658" ref="devlog"/>
+    <file name="resume.css" crc="3887125733" ref="resume"/>
+    <file name="nomq_resume.css" crc="203347387" ref="resume"/>
+    <file name="index.css" crc="4034264426" ref="index"/>
+    <file name="nomq_index.css" crc="4286151739" ref="index"/>
+    <file name="404.css" crc="232894377" ref="404"/>
+    <file name="nomq_404.css" crc="4041074259" ref="404"/>
   </folder>
   <folder name="assets">
     <file name="audiodesignannouncer_01.mp3" crc="417936540" seo="true" mt="1532741606000"/>
@@ -45,25 +45,25 @@
     <file name="u94-4_2x.png" crc="4279124914" ref="index:devlog:resume:contact:404"/>
     <file name="dropdown69x22.png" crc="4135816911" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="resume" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="resume" alt=""/>
     </file>
     <file name="dropdown_2x.png" crc="38094814" seo="true" ref="index:devlog:resume:contact:404">
       <caption webpage="404" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="devlog" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="resume" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="devlog" alt=""/>
     </file>
     <file name="dropdown38x13.png" crc="116064431" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="resume" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="resume" alt=""/>
     </file>
     <file name="dropdown38x13_2x.png" crc="175846523" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="resume" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="resume" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:devlog:resume:contact:404"/>
     <file name="u321-4.png" crc="484217209" ref="resume"/>
@@ -399,9 +399,9 @@
     <file name="u22403-44.png" crc="3771017517" ref="404"/>
     <file name="u22403-4_2x4.png" crc="4132489117" ref="404"/>
   </folder>
-  <file name="index.html" crc="8039993" seo="true" mt="1532816242370" redirect="true"/>
-  <file name="devlog.html" crc="533201531" seo="true" mt="1532815077435" redirect="true"/>
-  <file name="resume.html" crc="3843903196" seo="true" mt="1532814907928" redirect="true"/>
-  <file name="contact.html" crc="4149228131" seo="true" mt="1532814907928" redirect="true"/>
-  <file name="404.html" crc="4039327167" seo="true" mt="1532816028976" redirect="true"/>
+  <file name="index.html" crc="154490321" seo="true" mt="1532817908938" redirect="true"/>
+  <file name="devlog.html" crc="3909975800" seo="true" mt="1532817908938" redirect="true"/>
+  <file name="resume.html" crc="3945724992" seo="true" mt="1532817908938" redirect="true"/>
+  <file name="contact.html" crc="238955024" seo="true" mt="1532818451142" redirect="true"/>
+  <file name="404.html" crc="472102389" seo="true" mt="1532817965331" redirect="true"/>
 </manifest>
