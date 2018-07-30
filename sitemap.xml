@@ -1,316 +1,340 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://nokdef.github.com/index.html</loc>
-    <lastmod>2018-07-28</lastmod>
+    <loc>http://nokdef.github.io/Nokdef/index.html</loc>
+    <lastmod>2018-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/dropdown69x22.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown69x22.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/dropdown_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/dropdown38x13.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown38x13.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/dropdown38x13_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown38x13_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/home_devlog.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_devlog.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/home_devlog_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_devlog_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/home_resume.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_resume.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/home_resume_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_resume_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/twitter-logo-button82x82.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button82x82.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/facebook-logo-button82x82.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button82x82.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/youtube-logotype82x82.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype82x82.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/youtube-logotype39x39.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype39x39.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/facebook-logo-button39x39.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button39x39.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/twitter-logo-button39x39.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button39x39.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/home_devlog729x389.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_devlog729x389.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/home_devlog729x389_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_devlog729x389_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/home_resume729x389.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_resume729x389.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/home_resume729x389_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_resume729x389_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/youtube-logotype43x43.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype43x43.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/facebook-logo-button43x43.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button43x43.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/twitter-logo-button43x43.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button43x43.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/home_devlog569x304.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_devlog569x304.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/home_devlog569x304_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_devlog569x304_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/home_resume569x304.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_resume569x304.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/home_resume569x304_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_resume569x304_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/youtube-logotype25x25.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype25x25.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/facebook-logo-button25x25.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button25x25.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/twitter-logo-button25x25.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button25x25.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/home_devlog304x162.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_devlog304x162.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/home_devlog304x162_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_devlog304x162_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/home_resume304x162.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_resume304x162.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/home_resume304x162_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_resume304x162_2x.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://nokdef.github.com/contact.html</loc>
-    <lastmod>2018-07-28</lastmod>
+    <loc>http://nokdef.github.io/Nokdef/contact.html</loc>
+    <lastmod>2018-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/dropdown_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown_2x.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://nokdef.github.com/404.html</loc>
-    <lastmod>2018-07-28</lastmod>
+    <loc>http://nokdef.github.io/Nokdef/404.html</loc>
+    <lastmod>2018-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/dropdown_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/johntravolta.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/johntravolta.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/johntravolta244x292.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/johntravolta244x292.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/johntravolta190x228.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/johntravolta190x228.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/johntravolta102x122.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/johntravolta102x122.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://nokdef.github.com/resume.html</loc>
-    <lastmod>2018-07-28</lastmod>
+    <loc>http://nokdef.github.io/Nokdef/resume.html</loc>
+    <lastmod>2018-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/dropdown_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/audiodesign.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/audiodesign.png</image:loc>
       <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/audiodesign_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/audiodesign_2x.png</image:loc>
       <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/audiodesign602x308.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/audiodesign602x308.png</image:loc>
       <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/audiodesign602x308_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/audiodesign602x308_2x.png</image:loc>
       <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/audiodesign435x223.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/audiodesign435x223.png</image:loc>
       <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/audiodesign435x223_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/audiodesign435x223_2x.png</image:loc>
       <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/dropdown48x16.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown48x16.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/dropdown48x16_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown48x16_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/bed_model308x181.jpg</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/bed_model308x181.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/bed_model_2x.jpg</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/bed_model_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/bed_textured307x181.jpg</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/bed_textured307x181.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/bed_textured_2x.jpg</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/bed_textured_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/bed_model234x138.jpg</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/bed_model234x138.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/bed_model234x138_2x.jpg</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/bed_model234x138_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/bed_textured234x138.jpg</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/bed_textured234x138.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/bed_textured234x138_2x.jpg</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/bed_textured234x138_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/audiodesign545x279.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/audiodesign545x279.png</image:loc>
       <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/audiodesign545x279_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/audiodesign545x279_2x.png</image:loc>
       <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/audiodesign420x215.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/audiodesign420x215.png</image:loc>
       <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/audiodesign420x215_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/audiodesign420x215_2x.png</image:loc>
       <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/audiodesign320x164.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/audiodesign320x164.png</image:loc>
       <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/audiodesign320x164_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/audiodesign320x164_2x.png</image:loc>
       <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/twitter-logo-button53x53.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button53x53.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/facebook-logo-button53x53.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button53x53.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/youtube-logotype53x53.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype53x53.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/twitter-logo-button47x47.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button47x47.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/facebook-logo-button47x47.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button47x47.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/youtube-logotype47x47.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype47x47.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/youtube-logotype30x30.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype30x30.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/facebook-logo-button30x30.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button30x30.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/twitter-logo-button30x30.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button30x30.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://nokdef.github.com/devlog.html</loc>
-    <lastmod>2018-07-28</lastmod>
+    <loc>http://nokdef.github.io/Nokdef/devlog.html</loc>
+    <lastmod>2018-07-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nokdef.github.com/images/dropdown_2x.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1729x389.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1729x389_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1569x304.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1569x304_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1304x162.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1304x162_2x.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://nokdef.github.com/assets/bed_textured.jpg</loc>
+    <loc>http://nokdef.github.io/Nokdef/assets/bed_textured.jpg</loc>
     <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nokdef.github.com/assets/thumbnail1.png</loc>
+    <loc>http://nokdef.github.io/Nokdef/assets/thumbnail1.png</loc>
     <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nokdef.github.com/assets/bed_model.jpg</loc>
+    <loc>http://nokdef.github.io/Nokdef/assets/bed_model.jpg</loc>
     <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nokdef.github.com/assets/thumbnail4.png</loc>
+    <loc>http://nokdef.github.io/Nokdef/assets/thumbnail4.png</loc>
     <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nokdef.github.com/assets/thumbnail5.png</loc>
+    <loc>http://nokdef.github.io/Nokdef/assets/thumbnail5.png</loc>
     <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nokdef.github.com/assets/audiofx.mp3</loc>
+    <loc>http://nokdef.github.io/Nokdef/assets/audiofx.mp3</loc>
     <lastmod>2018-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nokdef.github.com/assets/claptrap_01.mp3</loc>
+    <loc>http://nokdef.github.io/Nokdef/assets/claptrap_01.mp3</loc>
     <lastmod>2018-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nokdef.github.com/assets/thumbnail2.png</loc>
+    <loc>http://nokdef.github.io/Nokdef/assets/thumbnail2.png</loc>
     <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nokdef.github.com/assets/audiodesignannouncer_01.mp3</loc>
+    <loc>http://nokdef.github.io/Nokdef/assets/audiodesignannouncer_01.mp3</loc>
     <lastmod>2018-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nokdef.github.com/assets/thumbnail3.png</loc>
+    <loc>http://nokdef.github.io/Nokdef/assets/thumbnail3.png</loc>
     <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
