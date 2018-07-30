@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nokdef.github.io/Nokdef/index.html</loc>
-    <lastmod>2018-07-29</lastmod>
+    <lastmod>2018-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -60,15 +60,6 @@
       <image:loc>http://nokdef.github.io/Nokdef/images/home_resume729x389_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype43x43.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button43x43.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button43x43.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nokdef.github.io/Nokdef/images/home_devlog569x304.png</image:loc>
     </image:image>
     <image:image>
@@ -79,15 +70,6 @@
     </image:image>
     <image:image>
       <image:loc>http://nokdef.github.io/Nokdef/images/home_resume569x304_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype25x25.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button25x25.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button25x25.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nokdef.github.io/Nokdef/images/home_devlog304x162.png</image:loc>
@@ -101,10 +83,95 @@
     <image:image>
       <image:loc>http://nokdef.github.io/Nokdef/images/home_resume304x162_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil81x81.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil81x81_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil39x39.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil39x39_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype31x31.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button31x31.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button31x31.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil30x31.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil30x31_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype17x17.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button17x17.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button17x17.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil16x17.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil16x17_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://nokdef.github.io/Nokdef/contact.html</loc>
-    <lastmod>2018-07-29</lastmod>
+    <loc>http://nokdef.github.io/Nokdef/resumept.html</loc>
+    <lastmod>2018-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/audiodesign.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/audiodesign_2x.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/bed_model_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/bed_textured_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/audiodesign620x317.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/audiodesign620x317_2x.png</image:loc>
+      <image:caption>This screenshot is the actual effect for the announcer, from Portal.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/united-states46x47.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/united-states46x47_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/united-states21x22.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/united-states21x22_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://nokdef.github.io/Nokdef/contactpt.html</loc>
+    <lastmod>2018-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -112,8 +179,128 @@
     </image:image>
   </url>
   <url>
+    <loc>http://nokdef.github.io/Nokdef/devlogpt.html</loc>
+    <lastmod>2018-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/united-states81x81.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/united-states81x81_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/united-states39x39.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/united-states39x39_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/united-states30x31.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/united-states30x31_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/united-states16x17.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/united-states16x17_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1_br.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1_br_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1_br729x389.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1_br729x389_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1_br569x304.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1_br569x304_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1_br304x162.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1_br304x162_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://nokdef.github.io/Nokdef/homept.html</loc>
+    <lastmod>2018-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_devlog.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_devlog_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/united-states81x81.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/united-states81x81_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_resumebr.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_resumebr_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/united-states39x39.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/united-states39x39_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_resumebr729x389.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_resumebr729x389_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/united-states30x31.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/united-states30x31_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_resumebr569x304.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_resumebr569x304_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/united-states16x17.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/united-states16x17_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_resumebr304x162.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/home_resumebr304x162_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://nokdef.github.io/Nokdef/404.html</loc>
-    <lastmod>2018-07-29</lastmod>
+    <lastmod>2018-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -133,8 +320,119 @@
     </image:image>
   </url>
   <url>
+    <loc>http://nokdef.github.io/Nokdef/contact.html</loc>
+    <lastmod>2018-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://nokdef.github.io/Nokdef/devlog.html</loc>
+    <lastmod>2018-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown69x22.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown38x13.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown38x13_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button82x82.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button82x82.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype82x82.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype39x39.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button39x39.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button39x39.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1729x389.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1729x389_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1569x304.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1569x304_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1304x162.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1304x162_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil81x81.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil81x81_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil39x39.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil39x39_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype31x31.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button31x31.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button31x31.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil30x31.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil30x31_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype17x17.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button17x17.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button17x17.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil16x17.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil16x17_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://nokdef.github.io/Nokdef/resume.html</loc>
-    <lastmod>2018-07-29</lastmod>
+    <lastmod>2018-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -237,119 +535,35 @@
       <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype47x47.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype30x30.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil53x53.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button30x30.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil53x53_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button30x30.png</image:loc>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil46x47.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil46x47_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype22x22.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button22x22.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button22x22.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil21x22.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nokdef.github.io/Nokdef/images/brazil21x22_2x.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://nokdef.github.io/Nokdef/devlog.html</loc>
-    <lastmod>2018-07-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown69x22.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown38x13.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown38x13_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button82x82.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button82x82.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype82x82.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype39x39.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button39x39.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button39x39.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype43x43.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button43x43.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button43x43.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype25x25.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button25x25.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button25x25.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1729x389.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1729x389_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1569x304.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1569x304_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1304x162.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/devlog1304x162_2x.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://nokdef.github.io/Nokdef/assets/bed_textured.jpg</loc>
-    <lastmod>2018-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nokdef.github.io/Nokdef/assets/thumbnail1.png</loc>
-    <lastmod>2018-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nokdef.github.io/Nokdef/assets/bed_model.jpg</loc>
-    <lastmod>2018-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nokdef.github.io/Nokdef/assets/thumbnail4.png</loc>
-    <lastmod>2018-07-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://nokdef.github.io/Nokdef/assets/thumbnail5.png</loc>
+    <loc>http://nokdef.github.io/Nokdef/assets/thumbnail3.png</loc>
     <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -361,13 +575,37 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://nokdef.github.io/Nokdef/assets/thumbnail2.png</loc>
+    <lastmod>2018-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nokdef.github.io/Nokdef/assets/thumbnail1.png</loc>
+    <lastmod>2018-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nokdef.github.io/Nokdef/assets/bed_textured.jpg</loc>
+    <lastmod>2018-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://nokdef.github.io/Nokdef/assets/bed_model.jpg</loc>
+    <lastmod>2018-07-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://nokdef.github.io/Nokdef/assets/claptrap_01.mp3</loc>
     <lastmod>2018-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nokdef.github.io/Nokdef/assets/thumbnail2.png</loc>
+    <loc>http://nokdef.github.io/Nokdef/assets/thumbnail4.png</loc>
     <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -379,7 +617,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://nokdef.github.io/Nokdef/assets/thumbnail3.png</loc>
+    <loc>http://nokdef.github.io/Nokdef/assets/thumbnail5.png</loc>
     <lastmod>2018-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

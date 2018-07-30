@@ -1,18 +1,28 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nokdef.github.io/Nokdef" resolutions="1x,2x" timestamp="1532913420117">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nokdef.github.io/Nokdef" resolutions="1x,2x" timestamp="1532929396360">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_master.css" crc="405625174" ref="contact:devlog:resume:index:404"/>
-    <file name="nomq_preview_master_master.css" crc="3969678423" ref="contact:devlog:resume:index:404"/>
-    <file name="contact.css" crc="3772101823" ref="contact"/>
-    <file name="nomq_contact.css" crc="3767904473" ref="contact"/>
-    <file name="devlog.css" crc="3826802471" ref="devlog"/>
-    <file name="nomq_devlog.css" crc="50703263" ref="devlog"/>
-    <file name="resume.css" crc="3898349264" ref="resume"/>
-    <file name="nomq_resume.css" crc="203347387" ref="resume"/>
-    <file name="index.css" crc="487565468" ref="index"/>
-    <file name="nomq_index.css" crc="3983548867" ref="index"/>
-    <file name="404.css" crc="116799727" ref="404"/>
-    <file name="nomq_404.css" crc="4041074259" ref="404"/>
+    <file name="contact.css" crc="3945080334" ref="contact"/>
+    <file name="nomq_contact.css" crc="3999971399" ref="contact"/>
+    <file name="devlog.css" crc="3956769836" ref="devlog"/>
+    <file name="nomq_devlog.css" crc="3990915359" ref="devlog"/>
+    <file name="resume.css" crc="314389334" ref="resume"/>
+    <file name="nomq_resume.css" crc="212997014" ref="resume"/>
+    <file name="index.css" crc="534987317" ref="index"/>
+    <file name="nomq_index.css" crc="3768552871" ref="index"/>
+    <file name="404.css" crc="3886433471" ref="404"/>
+    <file name="nomq_404.css" crc="4021927406" ref="404"/>
+    <file name="master_masterpt.css" crc="129265390" ref="contactpt:devlogpt:resumept:homept"/>
+    <file name="nomq_preview_master_masterpt.css" crc="107066415" ref="contactpt:devlogpt:resumept:homept"/>
+    <file name="master_masteren.css" crc="3940413231" ref="index:contact:devlog:resume:404"/>
+    <file name="nomq_preview_master_masteren.css" crc="3969678423" ref="index:contact:devlog:resume:404"/>
+    <file name="contactpt.css" crc="3767542700" ref="contactpt"/>
+    <file name="nomq_contactpt.css" crc="305240123" ref="contactpt"/>
+    <file name="devlogpt.css" crc="306963820" ref="devlogpt"/>
+    <file name="nomq_devlogpt.css" crc="479197180" ref="devlogpt"/>
+    <file name="resumept.css" crc="4092917062" ref="resumept"/>
+    <file name="nomq_resumept.css" crc="429150851" ref="resumept"/>
+    <file name="homept.css" crc="3953107593" ref="homept"/>
+    <file name="nomq_homept.css" crc="364725264" ref="homept"/>
   </folder>
   <folder name="assets">
     <file name="audiodesignannouncer_01.mp3" crc="417936540" seo="true" mt="1532741606000"/>
@@ -27,56 +37,60 @@
     <file name="thumbnail5.png" crc="4118201497" seo="true" mt="1532756897000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:devlog:resume:contact:404"/>
-    <file name="museutils.js" crc="340535759" ref="index:devlog:resume:contact:404"/>
-    <file name="whatinput.js" crc="86476730" ref="index:devlog:resume:contact:404"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:devlog:resume:contact:404"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:devlog:resume:contact:404"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:devlog:resume:contact:404"/>
-    <file name="webpro.js" crc="4059564322" ref="index:devlog:resume:contact:404"/>
-    <file name="musewpdisclosure.js" crc="3883500470" ref="index:devlog:resume:contact:404"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:devlog:resume:contact:404"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:devlog:resume:contact:404"/>
-    <file name="require.js" crc="7928878" ref="index:devlog:resume:contact:404"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="resume"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:devlog:resume:contact:404:homept:devlogpt:resumept:contactpt"/>
+    <file name="museutils.js" crc="340535759" ref="index:devlog:resume:contact:404:homept:devlogpt:resumept:contactpt"/>
+    <file name="whatinput.js" crc="86476730" ref="index:devlog:resume:contact:404:homept:devlogpt:resumept:contactpt"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:devlog:resume:contact:404:homept:devlogpt:resumept:contactpt"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:devlog:resume:contact:404:homept:devlogpt:resumept:contactpt"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:devlog:resume:contact:404:homept:devlogpt:resumept:contactpt"/>
+    <file name="webpro.js" crc="4059564322" ref="index:devlog:resume:contact:404:homept:devlogpt:resumept:contactpt"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:devlog:resume:contact:404:homept:devlogpt:resumept:contactpt"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:devlog:resume:contact:404:homept:devlogpt:resumept:contactpt"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:devlog:resume:contact:404:homept:devlogpt:resumept:contactpt"/>
+    <file name="require.js" crc="7928878" ref="index:devlog:resume:contact:404:homept:devlogpt:resumept:contactpt"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="resume:resumept"/>
   </folder>
   <folder name="images">
     <file name="u94-4.png" crc="4235398860" ref="index:devlog:resume:contact:404"/>
     <file name="u94-4_2x.png" crc="4279124914" ref="index:devlog:resume:contact:404"/>
     <file name="dropdown69x22.png" crc="4135816911" seo="true" ref="index:devlog">
       <caption webpage="index" alt=""/>
-      <caption webpage="devlog" alt=""/>
       <caption webpage="resume" alt=""/>
+      <caption webpage="devlog" alt=""/>
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="dropdown_2x.png" crc="38094814" seo="true" ref="index:devlog:resume:contact:404">
+    <file name="dropdown_2x.png" crc="38094814" seo="true" ref="index:devlog:resume:contact:404:homept:devlogpt:resumept:contactpt">
       <caption webpage="404" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="devlog" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
       <caption webpage="resume" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contactpt" alt=""/>
+      <caption webpage="devlog" alt=""/>
+      <caption webpage="homept" alt=""/>
+      <caption webpage="resumept" alt=""/>
     </file>
     <file name="dropdown38x13.png" crc="116064431" seo="true" ref="index:devlog">
       <caption webpage="index" alt=""/>
-      <caption webpage="devlog" alt=""/>
       <caption webpage="resume" alt=""/>
+      <caption webpage="devlog" alt=""/>
       <caption webpage="contact" alt=""/>
     </file>
     <file name="dropdown38x13_2x.png" crc="175846523" seo="true" ref="index:devlog">
       <caption webpage="index" alt=""/>
-      <caption webpage="devlog" alt=""/>
       <caption webpage="resume" alt=""/>
+      <caption webpage="devlog" alt=""/>
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:devlog:resume:contact:404"/>
+    <file name="blank.gif" crc="4208392903" ref="index:devlog:resume:contact:404:homept:devlogpt:resumept:contactpt"/>
     <file name="u321-4.png" crc="484217209" ref="resume"/>
     <file name="u321-4_2x.png" crc="386758396" ref="resume"/>
     <file name="u330-10.png" crc="3793933057" ref="resume"/>
     <file name="u330-10_2x.png" crc="3984981618" ref="resume"/>
-    <file name="adobepack.png" crc="271239683" ref="resume">
+    <file name="adobepack.png" crc="3808061116" ref="resume:resumept">
       <caption webpage="resume" alt=""/>
     </file>
-    <file name="adobepack_2x.png" crc="4046600769" ref="resume">
+    <file name="adobepack_2x.png" crc="3935703637" ref="resume:resumept">
       <caption webpage="resume" alt=""/>
     </file>
     <file name="u465-4.png" crc="294643906" ref="resume"/>
@@ -87,10 +101,12 @@
     <file name="u4079-4_2x.png" crc="154346601" ref="resume"/>
     <file name="u4593-4.png" crc="27516828" ref="resume"/>
     <file name="u4593-4_2x.png" crc="4245653778" ref="resume"/>
-    <file name="audiodesign.png" crc="525582010" seo="true" ref="resume">
+    <file name="audiodesign.png" crc="525582010" seo="true" ref="resume:resumept">
+      <caption webpage="resumept" alt="This screenshot is the actual effect for the announcer, from Portal."/>
       <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
     </file>
-    <file name="audiodesign_2x.png" crc="4209509677" seo="true" ref="resume">
+    <file name="audiodesign_2x.png" crc="4209509677" seo="true" ref="resume:resumept">
+      <caption webpage="resumept" alt="This screenshot is the actual effect for the announcer, from Portal."/>
       <caption webpage="resume" alt="This screenshot is the actual effect for the announcer, from Portal."/>
     </file>
     <file name="u321-42.png" crc="313561671" ref="resume"/>
@@ -182,13 +198,15 @@
     <file name="bed_model308x181.jpg" crc="298655903" seo="true" ref="resume">
       <caption webpage="resume" alt=""/>
     </file>
-    <file name="bed_model_2x.jpg" crc="393709465" seo="true" ref="resume">
+    <file name="bed_model_2x.jpg" crc="393709465" seo="true" ref="resume:resumept">
+      <caption webpage="resumept" alt=""/>
       <caption webpage="resume" alt=""/>
     </file>
     <file name="bed_textured307x181.jpg" crc="263733546" seo="true" ref="resume">
       <caption webpage="resume" alt=""/>
     </file>
-    <file name="bed_textured_2x.jpg" crc="40859661" seo="true" ref="resume">
+    <file name="bed_textured_2x.jpg" crc="40859661" seo="true" ref="resume:resumept">
+      <caption webpage="resumept" alt=""/>
       <caption webpage="resume" alt=""/>
     </file>
     <file name="u321-46.png" crc="3880417099" ref="resume"/>
@@ -245,14 +263,16 @@
     <file name="u18300-4_2x3.png" crc="4098382842" ref="contact"/>
     <file name="u18300-44.png" crc="431914897" ref="contact"/>
     <file name="u18300-4_2x4.png" crc="4098382842" ref="contact"/>
-    <file name="home-favicon.ico" crc="376670067" ref="index"/>
+    <file name="home-favicon.ico" crc="4176370057" ref="index"/>
     <file name="u21544-7.png" crc="70116180" ref="index"/>
     <file name="u21544-7_2x.png" crc="4065458154" ref="index"/>
-    <file name="home_devlog.png" crc="188388582" seo="true" ref="index">
+    <file name="home_devlog.png" crc="188388582" seo="true" ref="index:homept">
       <caption webpage="index" alt=""/>
+      <caption webpage="homept" alt=""/>
     </file>
-    <file name="home_devlog_2x.png" crc="4114912524" seo="true" ref="index">
+    <file name="home_devlog_2x.png" crc="4114912524" seo="true" ref="index:homept">
       <caption webpage="index" alt=""/>
+      <caption webpage="homept" alt=""/>
     </file>
     <file name="home_resume.png" crc="4075237794" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -298,18 +318,6 @@
     <file name="home_resume729x389_2x.png" crc="4112438755" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="youtube-logotype43x43.png" crc="50578190" seo="true" ref="index:devlog">
-      <caption webpage="index" alt=""/>
-      <caption webpage="devlog" alt=""/>
-    </file>
-    <file name="facebook-logo-button43x43.png" crc="334233130" seo="true" ref="index:devlog">
-      <caption webpage="index" alt=""/>
-      <caption webpage="devlog" alt=""/>
-    </file>
-    <file name="twitter-logo-button43x43.png" crc="4199275763" seo="true" ref="index:devlog">
-      <caption webpage="index" alt=""/>
-      <caption webpage="devlog" alt=""/>
-    </file>
     <file name="u21544-73.png" crc="4127211756" ref="index"/>
     <file name="u21544-7_2x3.png" crc="284853107" ref="index"/>
     <file name="home_devlog569x304.png" crc="4042541342" seo="true" ref="index">
@@ -323,18 +331,6 @@
     </file>
     <file name="home_resume569x304_2x.png" crc="4049521590" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="youtube-logotype25x25.png" crc="3831909269" seo="true" ref="index:devlog">
-      <caption webpage="index" alt=""/>
-      <caption webpage="devlog" alt=""/>
-    </file>
-    <file name="facebook-logo-button25x25.png" crc="331504732" seo="true" ref="index:devlog">
-      <caption webpage="index" alt=""/>
-      <caption webpage="devlog" alt=""/>
-    </file>
-    <file name="twitter-logo-button25x25.png" crc="279117863" seo="true" ref="index:devlog">
-      <caption webpage="index" alt=""/>
-      <caption webpage="devlog" alt=""/>
     </file>
     <file name="u21544-74.png" crc="476814545" ref="index"/>
     <file name="u21544-7_2x4.png" crc="3842285725" ref="index"/>
@@ -366,15 +362,6 @@
       <caption webpage="resume" alt=""/>
     </file>
     <file name="youtube-logotype47x47.png" crc="4011864124" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="youtube-logotype30x30.png" crc="3922023834" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="facebook-logo-button30x30.png" crc="4096503253" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="twitter-logo-button30x30.png" crc="3878860266" seo="true" ref="resume">
       <caption webpage="resume" alt=""/>
     </file>
     <file name="johntravolta.png" crc="47089072" seo="true" ref="404">
@@ -429,10 +416,311 @@
     <file name="devlog1304x162_2x.png" crc="504901932" seo="true" ref="devlog">
       <caption webpage="devlog" alt=""/>
     </file>
+    <file name="brazil81x81.png" crc="4110983249" seo="true" ref="index:devlog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="brazil81x81_2x.png" crc="3840654769" seo="true" ref="index:devlog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="brazil39x39.png" crc="3999639593" seo="true" ref="index:devlog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="brazil39x39_2x.png" crc="4023885640" seo="true" ref="index:devlog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="youtube-logotype31x31.png" crc="416518582" seo="true" ref="index:devlog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="facebook-logo-button31x31.png" crc="4129955353" seo="true" ref="index:devlog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="twitter-logo-button31x31.png" crc="4355117" seo="true" ref="index:devlog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="brazil30x31.png" crc="493256889" seo="true" ref="index:devlog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="brazil30x31_2x.png" crc="177812726" seo="true" ref="index:devlog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="youtube-logotype17x17.png" crc="336683577" seo="true" ref="index:devlog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="facebook-logo-button17x17.png" crc="512670574" seo="true" ref="index:devlog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="twitter-logo-button17x17.png" crc="357070400" seo="true" ref="index:devlog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="brazil16x17.png" crc="67826733" seo="true" ref="index:devlog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="brazil16x17_2x.png" crc="4082837674" seo="true" ref="index:devlog">
+      <caption webpage="index" alt=""/>
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="brazil53x53.png" crc="237259625" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="brazil53x53_2x.png" crc="3840654769" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="brazil46x47.png" crc="20612521" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="brazil46x47_2x.png" crc="123377328" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="youtube-logotype22x22.png" crc="185470322" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="facebook-logo-button22x22.png" crc="4289880185" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="twitter-logo-button22x22.png" crc="96038254" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="brazil21x22.png" crc="148705834" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="brazil21x22_2x.png" crc="342743517" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="u24030-4.png" crc="4235398860" ref="homept:devlogpt:resumept:contactpt"/>
+    <file name="u24030-4_2x.png" crc="4279124914" ref="homept:devlogpt:resumept:contactpt"/>
+    <file name="united-states81x81.png" crc="421113563" seo="true" ref="homept:devlogpt">
+      <caption webpage="homept" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="united-states81x81_2x.png" crc="409825146" seo="true" ref="homept:devlogpt">
+      <caption webpage="homept" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="u24470-7.png" crc="3973589288" ref="homept"/>
+    <file name="u24470-7_2x.png" crc="194598900" ref="homept"/>
+    <file name="home_resumebr.png" crc="3827332000" seo="true" ref="homept">
+      <caption webpage="homept" alt=""/>
+    </file>
+    <file name="home_resumebr_2x.png" crc="4023594548" seo="true" ref="homept">
+      <caption webpage="homept" alt=""/>
+    </file>
+    <file name="united-states39x39.png" crc="269229279" seo="true" ref="homept:devlogpt">
+      <caption webpage="homept" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="united-states39x39_2x.png" crc="4107936276" seo="true" ref="homept:devlogpt">
+      <caption webpage="homept" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="u24470-72.png" crc="321147217" ref="homept"/>
+    <file name="u24470-7_2x2.png" crc="536503093" ref="homept"/>
+    <file name="home_resumebr729x389.png" crc="4005447270" seo="true" ref="homept">
+      <caption webpage="homept" alt=""/>
+    </file>
+    <file name="home_resumebr729x389_2x.png" crc="291141533" seo="true" ref="homept">
+      <caption webpage="homept" alt=""/>
+    </file>
+    <file name="united-states30x31.png" crc="3807282091" seo="true" ref="homept:devlogpt">
+      <caption webpage="homept" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="united-states30x31_2x.png" crc="4034149987" seo="true" ref="homept:devlogpt">
+      <caption webpage="homept" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="u24470-73.png" crc="210467698" ref="homept"/>
+    <file name="u24470-7_2x3.png" crc="388331779" ref="homept"/>
+    <file name="home_resumebr569x304.png" crc="293414869" seo="true" ref="homept">
+      <caption webpage="homept" alt=""/>
+    </file>
+    <file name="home_resumebr569x304_2x.png" crc="4123319102" seo="true" ref="homept">
+      <caption webpage="homept" alt=""/>
+    </file>
+    <file name="united-states16x17.png" crc="4074222902" seo="true" ref="homept:devlogpt">
+      <caption webpage="homept" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="united-states16x17_2x.png" crc="351633892" seo="true" ref="homept:devlogpt">
+      <caption webpage="homept" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="u24470-74.png" crc="500252917" ref="homept"/>
+    <file name="u24470-7_2x4.png" crc="100829170" ref="homept"/>
+    <file name="home_resumebr304x162.png" crc="3949286013" seo="true" ref="homept">
+      <caption webpage="homept" alt=""/>
+    </file>
+    <file name="home_resumebr304x162_2x.png" crc="406287166" seo="true" ref="homept">
+      <caption webpage="homept" alt=""/>
+    </file>
+    <file name="devlog1_br.png" crc="404492893" seo="true" ref="devlogpt">
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="devlog1_br_2x.png" crc="3911074711" seo="true" ref="devlogpt">
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="devlog1_br729x389.png" crc="4032005324" seo="true" ref="devlogpt">
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="devlog1_br729x389_2x.png" crc="4101506261" seo="true" ref="devlogpt">
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="devlog1_br569x304.png" crc="4092912927" seo="true" ref="devlogpt">
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="devlog1_br569x304_2x.png" crc="287044812" seo="true" ref="devlogpt">
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="devlog1_br304x162.png" crc="4069043132" seo="true" ref="devlogpt">
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="devlog1_br304x162_2x.png" crc="365600186" seo="true" ref="devlogpt">
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="u24770-4.png" crc="3843723548" ref="resumept"/>
+    <file name="u24770-4_2x.png" crc="4215543379" ref="resumept"/>
+    <file name="u24754-10.png" crc="456635838" ref="resumept"/>
+    <file name="u24754-10_2x.png" crc="341505446" ref="resumept"/>
+    <file name="u24772-4.png" crc="4079958968" ref="resumept"/>
+    <file name="u24772-4_2x.png" crc="477903794" ref="resumept"/>
+    <file name="u24779-6.png" crc="155790316" ref="resumept"/>
+    <file name="u24779-6_2x.png" crc="393245259" ref="resumept"/>
+    <file name="u24774-4.png" crc="4184734395" ref="resumept"/>
+    <file name="u24774-4_2x.png" crc="154346601" ref="resumept"/>
+    <file name="u24766-4.png" crc="4201600987" ref="resumept"/>
+    <file name="u24766-4_2x.png" crc="139559284" ref="resumept"/>
+    <file name="audiodesign620x317.png" crc="3782012808" seo="true" ref="resumept">
+      <caption webpage="resumept" alt="This screenshot is the actual effect for the announcer, from Portal."/>
+    </file>
+    <file name="audiodesign620x317_2x.png" crc="315257003" seo="true" ref="resumept">
+      <caption webpage="resumept" alt="This screenshot is the actual effect for the announcer, from Portal."/>
+    </file>
+    <file name="u24765-4.png" crc="4228885934" ref="resumept"/>
+    <file name="u24765-4_2x.png" crc="204390747" ref="resumept"/>
+    <file name="u24777-4.png" crc="144686836" ref="resumept"/>
+    <file name="u24777-4_2x.png" crc="290791125" ref="resumept"/>
+    <file name="united-states46x47.png" crc="116566098" seo="true" ref="resumept">
+      <caption webpage="resumept" alt=""/>
+    </file>
+    <file name="united-states46x47_2x.png" crc="135840566" seo="true" ref="resumept">
+      <caption webpage="resumept" alt=""/>
+    </file>
+    <file name="u24770-42.png" crc="376847815" ref="resumept"/>
+    <file name="u24770-4_2x2.png" crc="4056931248" ref="resumept"/>
+    <file name="u24754-102.png" crc="4142434104" ref="resumept"/>
+    <file name="u24754-10_2x2.png" crc="4093410948" ref="resumept"/>
+    <file name="u24772-42.png" crc="78589332" ref="resumept"/>
+    <file name="u24772-4_2x2.png" crc="3972876635" ref="resumept"/>
+    <file name="u24779-62.png" crc="3864088048" ref="resumept"/>
+    <file name="u24779-6_2x2.png" crc="4064070901" ref="resumept"/>
+    <file name="u24774-42.png" crc="4184734395" ref="resumept"/>
+    <file name="u24774-4_2x2.png" crc="154346601" ref="resumept"/>
+    <file name="u24766-42.png" crc="3975322941" ref="resumept"/>
+    <file name="u24766-4_2x2.png" crc="3978047427" ref="resumept"/>
+    <file name="u24765-42.png" crc="294476359" ref="resumept"/>
+    <file name="u24765-4_2x2.png" crc="4041497677" ref="resumept"/>
+    <file name="u24777-42.png" crc="251692084" ref="resumept"/>
+    <file name="u24777-4_2x2.png" crc="525916553" ref="resumept"/>
+    <file name="u24770-43.png" crc="375735147" ref="resumept"/>
+    <file name="u24770-4_2x3.png" crc="69050398" ref="resumept"/>
+    <file name="u24754-103.png" crc="143980406" ref="resumept"/>
+    <file name="u24754-10_2x3.png" crc="3985502518" ref="resumept"/>
+    <file name="u24772-43.png" crc="4273281304" ref="resumept"/>
+    <file name="u24772-4_2x3.png" crc="4287660121" ref="resumept"/>
+    <file name="u24779-63.png" crc="526311738" ref="resumept"/>
+    <file name="u24779-6_2x3.png" crc="4088485340" ref="resumept"/>
+    <file name="u24774-43.png" crc="4184734395" ref="resumept"/>
+    <file name="u24774-4_2x3.png" crc="154346601" ref="resumept"/>
+    <file name="u24766-43.png" crc="4020130880" ref="resumept"/>
+    <file name="u24766-4_2x3.png" crc="496991898" ref="resumept"/>
+    <file name="u24765-43.png" crc="4250660032" ref="resumept"/>
+    <file name="u24765-4_2x3.png" crc="4174852480" ref="resumept"/>
+    <file name="u24777-43.png" crc="38266079" ref="resumept"/>
+    <file name="u24777-4_2x3.png" crc="4254664517" ref="resumept"/>
+    <file name="u24770-44.png" crc="3863126587" ref="resumept"/>
+    <file name="u24770-4_2x4.png" crc="223100709" ref="resumept"/>
+    <file name="u24754-104.png" crc="3984863904" ref="resumept"/>
+    <file name="u24754-10_2x4.png" crc="4133849519" ref="resumept"/>
+    <file name="u24772-44.png" crc="231646754" ref="resumept"/>
+    <file name="u24772-4_2x4.png" crc="116592263" ref="resumept"/>
+    <file name="u24779-64.png" crc="96639608" ref="resumept"/>
+    <file name="u24779-6_2x4.png" crc="4278256025" ref="resumept"/>
+    <file name="u24774-44.png" crc="473336519" ref="resumept"/>
+    <file name="u24774-4_2x4.png" crc="493881953" ref="resumept"/>
+    <file name="u24766-44.png" crc="4182836358" ref="resumept"/>
+    <file name="u24766-4_2x4.png" crc="389446935" ref="resumept"/>
+    <file name="u24765-44.png" crc="3974102753" ref="resumept"/>
+    <file name="u24765-4_2x4.png" crc="4063903339" ref="resumept"/>
+    <file name="u24777-44.png" crc="4191165544" ref="resumept"/>
+    <file name="u24777-4_2x4.png" crc="213559356" ref="resumept"/>
+    <file name="united-states21x22.png" crc="449709194" seo="true" ref="resumept">
+      <caption webpage="resumept" alt=""/>
+    </file>
+    <file name="united-states21x22_2x.png" crc="507605927" seo="true" ref="resumept">
+      <caption webpage="resumept" alt=""/>
+    </file>
+    <file name="u24770-45.png" crc="209893615" ref="resumept"/>
+    <file name="u24770-4_2x5.png" crc="4101533465" ref="resumept"/>
+    <file name="u24754-105.png" crc="3812181346" ref="resumept"/>
+    <file name="u24754-10_2x5.png" crc="21407548" ref="resumept"/>
+    <file name="u24772-45.png" crc="3789132457" ref="resumept"/>
+    <file name="u24772-4_2x5.png" crc="4114921518" ref="resumept"/>
+    <file name="u24779-65.png" crc="470028856" ref="resumept"/>
+    <file name="u24779-6_2x5.png" crc="4013284676" ref="resumept"/>
+    <file name="u24774-45.png" crc="375128449" ref="resumept"/>
+    <file name="u24774-4_2x5.png" crc="193643109" ref="resumept"/>
+    <file name="u24766-45.png" crc="4005657096" ref="resumept"/>
+    <file name="u24766-4_2x5.png" crc="472450120" ref="resumept"/>
+    <file name="u24765-45.png" crc="4217112352" ref="resumept"/>
+    <file name="u24765-4_2x5.png" crc="3759332472" ref="resumept"/>
+    <file name="u24777-45.png" crc="4256830971" ref="resumept"/>
+    <file name="u24777-4_2x5.png" crc="3973136476" ref="resumept"/>
+    <file name="u24770-46.png" crc="123796589" ref="resumept"/>
+    <file name="u24770-4_2x6.png" crc="310206890" ref="resumept"/>
+    <file name="u24754-106.png" crc="3966065482" ref="resumept"/>
+    <file name="u24754-10_2x6.png" crc="4293114954" ref="resumept"/>
+    <file name="u24772-46.png" crc="3789132457" ref="resumept"/>
+    <file name="u24772-4_2x6.png" crc="4114921518" ref="resumept"/>
+    <file name="u24779-66.png" crc="4280064902" ref="resumept"/>
+    <file name="u24779-6_2x6.png" crc="4020266400" ref="resumept"/>
+    <file name="u24774-46.png" crc="375128449" ref="resumept"/>
+    <file name="u24774-4_2x6.png" crc="193643109" ref="resumept"/>
+    <file name="u24766-46.png" crc="3894398049" ref="resumept"/>
+    <file name="u24766-4_2x6.png" crc="4183466922" ref="resumept"/>
+    <file name="u24765-46.png" crc="4217112352" ref="resumept"/>
+    <file name="u24765-4_2x6.png" crc="3759332472" ref="resumept"/>
+    <file name="u24777-46.png" crc="3931854883" ref="resumept"/>
+    <file name="u24777-4_2x6.png" crc="3876876061" ref="resumept"/>
+    <file name="u24938-4.png" crc="3900280542" ref="contactpt"/>
+    <file name="u24938-4_2x.png" crc="79990524" ref="contactpt"/>
+    <file name="u24938-42.png" crc="3900280542" ref="contactpt"/>
+    <file name="u24938-4_2x2.png" crc="79990524" ref="contactpt"/>
+    <file name="u24938-43.png" crc="3900280542" ref="contactpt"/>
+    <file name="u24938-4_2x3.png" crc="79990524" ref="contactpt"/>
+    <file name="u24938-44.png" crc="3900280542" ref="contactpt"/>
+    <file name="u24938-4_2x4.png" crc="79990524" ref="contactpt"/>
+    <file name="masteren-favicon.ico" crc="4176370057" ref="devlog"/>
+    <file name="masterpt-favicon.ico" crc="4176370057" ref="homept:devlogpt"/>
   </folder>
-  <file name="index.html" crc="435755526" seo="true" mt="1532913119741" redirect="true"/>
-  <file name="devlog.html" crc="3926702248" seo="true" mt="1532913406364" redirect="true"/>
-  <file name="resume.html" crc="3823522787" seo="true" mt="1532913080159" redirect="true"/>
-  <file name="contact.html" crc="176573328" seo="true" mt="1532913080159" redirect="true"/>
-  <file name="404.html" crc="5211103" seo="true" mt="1532913080159" redirect="true"/>
+  <file name="index.html" crc="4284967120" seo="true" mt="1532928838975" redirect="true"/>
+  <file name="devlog.html" crc="278089145" seo="true" mt="1532929347442" redirect="true"/>
+  <file name="resume.html" crc="531931413" seo="true" mt="1532928520985" redirect="true"/>
+  <file name="contact.html" crc="3971386447" seo="true" mt="1532928520985" redirect="true"/>
+  <file name="404.html" crc="338644151" seo="true" mt="1532928520985" redirect="true"/>
+  <file name="homept.html" crc="255838342" seo="true" mt="1532928541153" redirect="true"/>
+  <file name="devlogpt.html" crc="142804377" seo="true" mt="1532929338514" redirect="true"/>
+  <file name="resumept.html" crc="445862919" seo="true" mt="1532928541153" redirect="true"/>
+  <file name="contactpt.html" crc="343155329" seo="true" mt="1532928730726" redirect="true"/>
 </manifest>
