@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nokdef.github.io/Nokdef" resolutions="1x,2x" timestamp="1532913152131">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nokdef.github.io/Nokdef" resolutions="1x,2x" timestamp="1532913420117">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_master.css" crc="3824819042" ref="contact:devlog:resume:index:404"/>
+    <file name="master_master.css" crc="405625174" ref="contact:devlog:resume:index:404"/>
     <file name="nomq_preview_master_master.css" crc="3969678423" ref="contact:devlog:resume:index:404"/>
     <file name="contact.css" crc="3772101823" ref="contact"/>
     <file name="nomq_contact.css" crc="3767904473" ref="contact"/>
-    <file name="devlog.css" crc="4142763222" ref="devlog"/>
-    <file name="nomq_devlog.css" crc="240977164" ref="devlog"/>
+    <file name="devlog.css" crc="3826802471" ref="devlog"/>
+    <file name="nomq_devlog.css" crc="50703263" ref="devlog"/>
     <file name="resume.css" crc="3898349264" ref="resume"/>
     <file name="nomq_resume.css" crc="203347387" ref="resume"/>
     <file name="index.css" crc="487565468" ref="index"/>
@@ -43,7 +43,7 @@
   <folder name="images">
     <file name="u94-4.png" crc="4235398860" ref="index:devlog:resume:contact:404"/>
     <file name="u94-4_2x.png" crc="4279124914" ref="index:devlog:resume:contact:404"/>
-    <file name="dropdown69x22.png" crc="4135816911" seo="true" ref="index">
+    <file name="dropdown69x22.png" crc="4135816911" seo="true" ref="index:devlog">
       <caption webpage="index" alt=""/>
       <caption webpage="devlog" alt=""/>
       <caption webpage="resume" alt=""/>
@@ -56,13 +56,13 @@
       <caption webpage="resume" alt=""/>
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="dropdown38x13.png" crc="116064431" seo="true" ref="index">
+    <file name="dropdown38x13.png" crc="116064431" seo="true" ref="index:devlog">
       <caption webpage="index" alt=""/>
       <caption webpage="devlog" alt=""/>
       <caption webpage="resume" alt=""/>
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="dropdown38x13_2x.png" crc="175846523" seo="true" ref="index">
+    <file name="dropdown38x13_2x.png" crc="175846523" seo="true" ref="index:devlog">
       <caption webpage="index" alt=""/>
       <caption webpage="devlog" alt=""/>
       <caption webpage="resume" alt=""/>
@@ -260,27 +260,27 @@
     <file name="home_resume_2x.png" crc="479942918" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="twitter-logo-button82x82.png" crc="48358424" seo="true" ref="index">
+    <file name="twitter-logo-button82x82.png" crc="48358424" seo="true" ref="index:devlog">
       <caption webpage="index" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
-    <file name="facebook-logo-button82x82.png" crc="3904617597" seo="true" ref="index">
+    <file name="facebook-logo-button82x82.png" crc="3904617597" seo="true" ref="index:devlog">
       <caption webpage="index" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
-    <file name="youtube-logotype82x82.png" crc="3884033189" seo="true" ref="index">
+    <file name="youtube-logotype82x82.png" crc="3884033189" seo="true" ref="index:devlog">
       <caption webpage="index" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
-    <file name="youtube-logotype39x39.png" crc="4195110049" seo="true" ref="index">
+    <file name="youtube-logotype39x39.png" crc="4195110049" seo="true" ref="index:devlog">
       <caption webpage="index" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
-    <file name="facebook-logo-button39x39.png" crc="301616241" seo="true" ref="index">
+    <file name="facebook-logo-button39x39.png" crc="301616241" seo="true" ref="index:devlog">
       <caption webpage="index" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
-    <file name="twitter-logo-button39x39.png" crc="3784926786" seo="true" ref="index">
+    <file name="twitter-logo-button39x39.png" crc="3784926786" seo="true" ref="index:devlog">
       <caption webpage="index" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
@@ -298,15 +298,15 @@
     <file name="home_resume729x389_2x.png" crc="4112438755" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="youtube-logotype43x43.png" crc="50578190" seo="true" ref="index">
+    <file name="youtube-logotype43x43.png" crc="50578190" seo="true" ref="index:devlog">
       <caption webpage="index" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
-    <file name="facebook-logo-button43x43.png" crc="334233130" seo="true" ref="index">
+    <file name="facebook-logo-button43x43.png" crc="334233130" seo="true" ref="index:devlog">
       <caption webpage="index" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
-    <file name="twitter-logo-button43x43.png" crc="4199275763" seo="true" ref="index">
+    <file name="twitter-logo-button43x43.png" crc="4199275763" seo="true" ref="index:devlog">
       <caption webpage="index" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
@@ -324,15 +324,15 @@
     <file name="home_resume569x304_2x.png" crc="4049521590" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="youtube-logotype25x25.png" crc="3831909269" seo="true" ref="index">
+    <file name="youtube-logotype25x25.png" crc="3831909269" seo="true" ref="index:devlog">
       <caption webpage="index" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
-    <file name="facebook-logo-button25x25.png" crc="331504732" seo="true" ref="index">
+    <file name="facebook-logo-button25x25.png" crc="331504732" seo="true" ref="index:devlog">
       <caption webpage="index" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
-    <file name="twitter-logo-button25x25.png" crc="279117863" seo="true" ref="index">
+    <file name="twitter-logo-button25x25.png" crc="279117863" seo="true" ref="index:devlog">
       <caption webpage="index" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
@@ -431,7 +431,7 @@
     </file>
   </folder>
   <file name="index.html" crc="435755526" seo="true" mt="1532913119741" redirect="true"/>
-  <file name="devlog.html" crc="3839393186" seo="true" mt="1532913080159" redirect="true"/>
+  <file name="devlog.html" crc="3926702248" seo="true" mt="1532913406364" redirect="true"/>
   <file name="resume.html" crc="3823522787" seo="true" mt="1532913080159" redirect="true"/>
   <file name="contact.html" crc="176573328" seo="true" mt="1532913080159" redirect="true"/>
   <file name="404.html" crc="5211103" seo="true" mt="1532913080159" redirect="true"/>
