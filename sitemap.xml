@@ -184,52 +184,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown69x22.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://nokdef.github.io/Nokdef/images/dropdown_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown38x13.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/dropdown38x13_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button82x82.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button82x82.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype82x82.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype39x39.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button39x39.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button39x39.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype31x31.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button31x31.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button31x31.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/youtube-logotype17x17.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/facebook-logo-button17x17.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://nokdef.github.io/Nokdef/images/twitter-logo-button17x17.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://nokdef.github.io/Nokdef/images/united-states81x81.png</image:loc>
