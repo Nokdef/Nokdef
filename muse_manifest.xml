@@ -1,24 +1,24 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nokdef.github.io/Nokdef" resolutions="1x,2x" timestamp="1532929396360">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nokdef.github.io/Nokdef" resolutions="1x,2x" timestamp="1533606129295">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="contact.css" crc="3945080334" ref="contact"/>
     <file name="nomq_contact.css" crc="3999971399" ref="contact"/>
-    <file name="devlog.css" crc="3956769836" ref="devlog"/>
-    <file name="nomq_devlog.css" crc="3990915359" ref="devlog"/>
+    <file name="devlog.css" crc="4259425508" ref="devlog"/>
+    <file name="nomq_devlog.css" crc="4036811" ref="devlog"/>
     <file name="resume.css" crc="314389334" ref="resume"/>
     <file name="nomq_resume.css" crc="212997014" ref="resume"/>
     <file name="index.css" crc="534987317" ref="index"/>
     <file name="nomq_index.css" crc="3768552871" ref="index"/>
     <file name="404.css" crc="3886433471" ref="404"/>
     <file name="nomq_404.css" crc="4021927406" ref="404"/>
-    <file name="master_masterpt.css" crc="129265390" ref="contactpt:devlogpt:resumept:homept"/>
+    <file name="master_masterpt.css" crc="312223398" ref="contactpt:devlogpt:resumept:homept"/>
     <file name="nomq_preview_master_masterpt.css" crc="107066415" ref="contactpt:devlogpt:resumept:homept"/>
-    <file name="master_masteren.css" crc="3940413231" ref="index:contact:devlog:resume:404"/>
+    <file name="master_masteren.css" crc="358624471" ref="index:contact:devlog:resume:404"/>
     <file name="nomq_preview_master_masteren.css" crc="3969678423" ref="index:contact:devlog:resume:404"/>
     <file name="contactpt.css" crc="3767542700" ref="contactpt"/>
     <file name="nomq_contactpt.css" crc="305240123" ref="contactpt"/>
-    <file name="devlogpt.css" crc="306963820" ref="devlogpt"/>
-    <file name="nomq_devlogpt.css" crc="479197180" ref="devlogpt"/>
+    <file name="devlogpt.css" crc="4235585144" ref="devlogpt"/>
+    <file name="nomq_devlogpt.css" crc="3785831905" ref="devlogpt"/>
     <file name="resumept.css" crc="4092917062" ref="resumept"/>
     <file name="nomq_resumept.css" crc="429150851" ref="resumept"/>
     <file name="homept.css" crc="3953107593" ref="homept"/>
@@ -53,34 +53,37 @@
   <folder name="images">
     <file name="u94-4.png" crc="4235398860" ref="index:devlog:resume:contact:404"/>
     <file name="u94-4_2x.png" crc="4279124914" ref="index:devlog:resume:contact:404"/>
-    <file name="dropdown69x22.png" crc="4135816911" seo="true" ref="index:devlog">
+    <file name="dropdown69x22.png" crc="4135816911" seo="true" ref="index:devlog:devlogpt">
       <caption webpage="index" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="devlog" alt=""/>
-      <caption webpage="contact" alt=""/>
-    </file>
-    <file name="dropdown_2x.png" crc="38094814" seo="true" ref="index:devlog:resume:contact:404:homept:devlogpt:resumept:contactpt">
-      <caption webpage="404" alt=""/>
       <caption webpage="devlogpt" alt=""/>
       <caption webpage="resume" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="dropdown_2x.png" crc="38094814" seo="true" ref="index:devlog:resume:contact:404:homept:devlogpt:resumept:contactpt">
+      <caption webpage="404" alt=""/>
+      <caption webpage="homept" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="resumept" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
       <caption webpage="contactpt" alt=""/>
       <caption webpage="devlog" alt=""/>
-      <caption webpage="homept" alt=""/>
-      <caption webpage="resumept" alt=""/>
     </file>
-    <file name="dropdown38x13.png" crc="116064431" seo="true" ref="index:devlog">
+    <file name="dropdown38x13.png" crc="116064431" seo="true" ref="index:devlog:devlogpt">
       <caption webpage="index" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
       <caption webpage="resume" alt=""/>
-      <caption webpage="devlog" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="devlog" alt=""/>
     </file>
-    <file name="dropdown38x13_2x.png" crc="175846523" seo="true" ref="index:devlog">
+    <file name="dropdown38x13_2x.png" crc="175846523" seo="true" ref="index:devlog:devlogpt">
       <caption webpage="index" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
       <caption webpage="resume" alt=""/>
-      <caption webpage="devlog" alt=""/>
       <caption webpage="contact" alt=""/>
+      <caption webpage="devlog" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:devlog:resume:contact:404:homept:devlogpt:resumept:contactpt"/>
     <file name="u321-4.png" crc="484217209" ref="resume"/>
@@ -280,28 +283,34 @@
     <file name="home_resume_2x.png" crc="479942918" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="twitter-logo-button82x82.png" crc="48358424" seo="true" ref="index:devlog">
+    <file name="twitter-logo-button82x82.png" crc="48358424" seo="true" ref="index:devlog:devlogpt">
       <caption webpage="index" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
-    <file name="facebook-logo-button82x82.png" crc="3904617597" seo="true" ref="index:devlog">
+    <file name="facebook-logo-button82x82.png" crc="3904617597" seo="true" ref="index:devlog:devlogpt">
       <caption webpage="index" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
-    <file name="youtube-logotype82x82.png" crc="3884033189" seo="true" ref="index:devlog">
+    <file name="youtube-logotype82x82.png" crc="3884033189" seo="true" ref="index:devlog:devlogpt">
       <caption webpage="index" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
-    <file name="youtube-logotype39x39.png" crc="4195110049" seo="true" ref="index:devlog">
+    <file name="youtube-logotype39x39.png" crc="4195110049" seo="true" ref="index:devlog:devlogpt">
       <caption webpage="index" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
-    <file name="facebook-logo-button39x39.png" crc="301616241" seo="true" ref="index:devlog">
+    <file name="facebook-logo-button39x39.png" crc="301616241" seo="true" ref="index:devlog:devlogpt">
       <caption webpage="index" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
-    <file name="twitter-logo-button39x39.png" crc="3784926786" seo="true" ref="index:devlog">
+    <file name="twitter-logo-button39x39.png" crc="3784926786" seo="true" ref="index:devlog:devlogpt">
       <caption webpage="index" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
     <file name="u21544-72.png" crc="410067557" ref="index"/>
@@ -432,16 +441,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
-    <file name="youtube-logotype31x31.png" crc="416518582" seo="true" ref="index:devlog">
+    <file name="youtube-logotype31x31.png" crc="416518582" seo="true" ref="index:devlog:devlogpt">
       <caption webpage="index" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
-    <file name="facebook-logo-button31x31.png" crc="4129955353" seo="true" ref="index:devlog">
+    <file name="facebook-logo-button31x31.png" crc="4129955353" seo="true" ref="index:devlog:devlogpt">
       <caption webpage="index" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
-    <file name="twitter-logo-button31x31.png" crc="4355117" seo="true" ref="index:devlog">
+    <file name="twitter-logo-button31x31.png" crc="4355117" seo="true" ref="index:devlog:devlogpt">
       <caption webpage="index" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
     <file name="brazil30x31.png" crc="493256889" seo="true" ref="index:devlog">
@@ -452,16 +464,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
-    <file name="youtube-logotype17x17.png" crc="336683577" seo="true" ref="index:devlog">
+    <file name="youtube-logotype17x17.png" crc="336683577" seo="true" ref="index:devlog:devlogpt">
       <caption webpage="index" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
-    <file name="facebook-logo-button17x17.png" crc="512670574" seo="true" ref="index:devlog">
+    <file name="facebook-logo-button17x17.png" crc="512670574" seo="true" ref="index:devlog:devlogpt">
       <caption webpage="index" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
-    <file name="twitter-logo-button17x17.png" crc="357070400" seo="true" ref="index:devlog">
+    <file name="twitter-logo-button17x17.png" crc="357070400" seo="true" ref="index:devlog:devlogpt">
       <caption webpage="index" alt=""/>
+      <caption webpage="devlogpt" alt=""/>
       <caption webpage="devlog" alt=""/>
     </file>
     <file name="brazil16x17.png" crc="67826733" seo="true" ref="index:devlog">
@@ -713,14 +728,62 @@
     <file name="u24938-4_2x4.png" crc="79990524" ref="contactpt"/>
     <file name="masteren-favicon.ico" crc="4176370057" ref="devlog"/>
     <file name="masterpt-favicon.ico" crc="4176370057" ref="homept:devlogpt"/>
+    <file name="devlog2.png" crc="383300929" seo="true" ref="devlog">
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="devlog2_2x.png" crc="283371206" seo="true" ref="devlog">
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="devlog2729x389.png" crc="136556842" seo="true" ref="devlog">
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="devlog2729x389_2x.png" crc="3878598748" seo="true" ref="devlog">
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="devlog2569x304.png" crc="454619872" seo="true" ref="devlog">
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="devlog2569x304_2x.png" crc="144490415" seo="true" ref="devlog">
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="devlog2304x162.png" crc="470767116" seo="true" ref="devlog">
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="devlog2304x162_2x.png" crc="270725603" seo="true" ref="devlog">
+      <caption webpage="devlog" alt=""/>
+    </file>
+    <file name="devlog2_br.png" crc="4203028848" seo="true" ref="devlogpt">
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="devlog2_br_2x.png" crc="3950514665" seo="true" ref="devlogpt">
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="devlog2_br729x389.png" crc="420191721" seo="true" ref="devlogpt">
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="devlog2_br729x389_2x.png" crc="272265436" seo="true" ref="devlogpt">
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="devlog2_br569x304.png" crc="54056050" seo="true" ref="devlogpt">
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="devlog2_br569x304_2x.png" crc="3996956779" seo="true" ref="devlogpt">
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="devlog2_br304x162.png" crc="4266186107" seo="true" ref="devlogpt">
+      <caption webpage="devlogpt" alt=""/>
+    </file>
+    <file name="devlog2_br304x162_2x.png" crc="3799636153" seo="true" ref="devlogpt">
+      <caption webpage="devlogpt" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4284967120" seo="true" mt="1532928838975" redirect="true"/>
-  <file name="devlog.html" crc="278089145" seo="true" mt="1532929347442" redirect="true"/>
+  <file name="devlog.html" crc="4106110511" seo="true" mt="1533605955278" redirect="true"/>
   <file name="resume.html" crc="531931413" seo="true" mt="1532928520985" redirect="true"/>
   <file name="contact.html" crc="3971386447" seo="true" mt="1532928520985" redirect="true"/>
   <file name="404.html" crc="338644151" seo="true" mt="1532928520985" redirect="true"/>
   <file name="homept.html" crc="255838342" seo="true" mt="1532928541153" redirect="true"/>
-  <file name="devlogpt.html" crc="142804377" seo="true" mt="1532929338514" redirect="true"/>
+  <file name="devlogpt.html" crc="4285780080" seo="true" mt="1533606073699" redirect="true"/>
   <file name="resumept.html" crc="445862919" seo="true" mt="1532928541153" redirect="true"/>
   <file name="contactpt.html" crc="343155329" seo="true" mt="1532928730726" redirect="true"/>
 </manifest>
